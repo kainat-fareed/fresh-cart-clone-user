@@ -1,0 +1,127 @@
+import StoreLogo1 from "../../../../assets/images/stores-logo/stores-logo-1.svg";
+import StoreLogo2 from "../../../../assets/images/stores-logo/stores-logo-2.svg";
+import StoreLogo3 from "../../../../assets/images/stores-logo/stores-logo-3.svg";
+import StoreLogo4 from "../../../../assets/images/stores-logo/stores-logo-4.svg";
+import StoreLogo5 from "../../../../assets/images/stores-logo/stores-logo-5.svg";
+import StoreLogo6 from "../../../../assets/images/stores-logo/stores-logo-6.svg";
+import StoreLogo7 from "../../../../assets/images/stores-logo/stores-logo-7.svg";
+import StoreLogo8 from "../../../../assets/images/stores-logo/stores-logo-8.svg";
+import StoreLogo9 from "../../../../assets/images/stores-logo/stores-logo-9.svg";
+
+export const StoreLocationData = [
+  {
+    avatar: StoreLogo1,
+    martName: "E-Grocery Super Market",
+    shop1: "Organic",
+    shop2: "Groceries",
+    shop3: "Butcher Shop",
+    delivery: "Delivery",
+    pickUp: "Pickup available",
+    distance: "7.5 mi away",
+    price: "In-store prices",
+  },
+  {
+    avatar: StoreLogo2,
+    martName: "DealShare Mart",
+    shop1: "Alcohol",
+    shop2: "Groceries",
+    delivery: "Delivery",
+    pickUp: "Pickup available",
+    distance: "7.2 mi away",
+  },
+  {
+    avatar: StoreLogo3,
+    martName: "DMart",
+    shop1: "Groceries",
+    shop2: "Bakery",
+    shop3: "Deli",
+    delivery: "Delivery by 10:30pm",
+    pickUp: "Pickup available",
+    distance: "9.3 mi away",
+  },
+  {
+    avatar: StoreLogo4,
+    martName: "Blinkit Store",
+    shop1: "Meal Kits",
+    shop2: "Prepared Meals",
+    shop3: "Organic",
+    delivery: "Delivery",
+    pickUp: "Pickup available",
+    distance: "40.5 mi away",
+  },
+  {
+    avatar: StoreLogo5,
+    martName: "StoreFront Super Market",
+    shop1: "Groceries",
+    shop2: "Bakery",
+    delivery: "Delivery by 11:30pm",
+    pickUp: "Pickup available",
+    distance: "28.1 mi away",
+  },
+  {
+    avatar: StoreLogo6,
+    martName: "BigBasket",
+    shop1: "Groceries",
+    shop2: "Deli",
+    delivery: "Delivery by 10:30pm",
+    pickUp: "Pickup available",
+    distance: "7.5 mi away",
+  },
+  {
+    avatar: StoreLogo7,
+    martName: "Swiggy Instamart",
+    shop1: "Meal kits",
+    shop2: "Prepared Meals",
+    shop3:"Organic",
+    delivery: "Delivery",
+    pickUp: "Pickup available",
+    distance: "40.5 mi away",
+  },
+  {
+    avatar: StoreLogo8,
+    martName: "Online Grocery Mart",
+    shop1: "Groceries",
+    shop2: "Bakery",
+    delivery: "Delivery by 11:30pm",
+    pickUp: "Pickup available",
+    distance: "28.1 mi away",
+  },
+  {
+    avatar: StoreLogo9,
+    martName: "Spencers",
+    shop1: "Groceries",
+    shop2: "Bakery",
+    delivery: "Delivery by 10:30pm",
+    pickUp: "Pickup available",
+    distance: "7.5 mi away",
+  },
+  {
+    avatar: StoreLogo2,
+    martName: "DealShare Mart",
+    shop1: "Alcohol",
+    shop2: "Groceries",
+    delivery: "Delivery",
+    pickUp: "Pickup available",
+    distance: "7.2 mi away",
+  },
+  {
+    avatar: StoreLogo3,
+    martName: "DMart",
+    shop1: "Groceries",
+    shop2: "Bakery",
+    shop3: "Deli",
+    delivery: "Delivery by 10:30pm",
+    pickUp: "Pickup available",
+    distance: "9.3 mi away",
+  },
+  {
+    avatar: StoreLogo4,
+    martName: "Blinkit Store",
+    shop1: "Meal Kits",
+    shop2: "Prepared Meals",
+    shop3: "Organic",
+    delivery: "Delivery",
+    pickUp: "Pickup available",
+    distance: "40.5 mi away",
+  },
+];
